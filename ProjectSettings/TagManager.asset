@@ -41,3 +41,24 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 532880241
+    locked: 0
+  - name: Ground
+    uniqueID: 1514017759
+    locked: 0
+  - name: Portal
+    uniqueID: 2000505307
+    locked: 0
+  - name: Enemy
+    uniqueID: 2307450579
+    locked: 0
+  - name: Tower
+    uniqueID: 439654325
+    locked: 0
+  - name: Base
+    uniqueID: 924382161
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2959072725
+    locked: 0
